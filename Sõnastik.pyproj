@@ -25,7 +25,6 @@
     <Compile Include="Sõnastik.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Nimed.txt" />
     <Content Include="Paevad.txt" />
     <Content Include="est.txt" />
     <Content Include="rus.txt" />

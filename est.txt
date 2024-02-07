@@ -1,50 +1,50 @@
-    Tere
-    Ait�h
-    Palun
-    Tere tulemast
-    N�gemist
-    Jah
-    Ei
-    Maja
-    Auto
-    Raamat
-    Laul
-    J�gi
-    M�gi
-    Linn
-    K�la
-    Taevas
-    P�ike
-    Kuu
-    T�ht
-    Meri
-    Rand
-    Mets
-    J�rv
-    �hk
-    Vesi
-    Tuli
-    Maa
-    �is
-    Puu
-    Lill
-    Roheline
-    Sinine
-    Punane
-    Must
-    Valge
-    Kollane
-    Oran�
-    Hall
-    Pruun
-    Roheline
-    Kala
-    Loom
-    Lind
-    Hunt
-    Koer
-    Kass
-    Hobune
-    Lammas
-    Lehm
-    Sigarett
+Привет-Tere
+Спасибо-Aitäh
+Пожалуйста-Palun
+Добро пожаловать-Tere tulemast
+До свидания-Nägemist
+Да-Jah
+Нет-Ei
+Дом-Maja
+Автомобиль-Auto
+Книга-Raamat
+Песня-Laul
+Река-Jõgi
+Гора-Mägi
+Город-Linn
+Деревня-Küla
+Небо-Taevas
+Солнце-Päike
+Луна-Kuu
+Звезда-Täht
+Море-Meri
+Пляж-Rand
+Лес-Mets
+Озеро-Järv
+Воздух-Õhk
+Вода-Vesi
+Огонь-Tuli
+Земля-Maa
+Цветок-Lill
+Дерево-Puu
+Цветок-Lill
+Зеленый-Roheline
+Синий-Sinine
+Красный-Punane
+Черный-Must
+Белый-Valge
+Желтый-Kollane
+Оранжевый-Oranž
+Серый-Hall
+Коричневый-Pruun
+Зеленый-Roheline
+Рыба-Kala
+Животное-Loom
+Птица-Lind
+Волк-Hunt
+Собака-Koer
+Кошка-Kass
+Лошадь-Hobune
+Овца-Tall
+Корова-Lehm
+Сигарета-Sigaret
